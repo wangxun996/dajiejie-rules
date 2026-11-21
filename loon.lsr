@@ -1,0 +1,3 @@
+#! 大大姐 · 定制规则（Loon 重写）
+[Rewrite]
+request if ${url} ~= /tieba(c)?\.baidu\.com/c/s/(newlog|pv|upClientMonitorLog) then reject(404)
