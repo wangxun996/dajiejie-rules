@@ -45,3 +45,13 @@ fp-it.fengkongcloud.com
 px.ucweb.com
 partner.uc.cn
 hc-ssp.sm.cn
+
+# 阿里 Tanx / 阿里妈妈
+tanx.com
+atanx.alicdn.com
+alimama.com
+afp.alicdn.com
+# AdGain / 天目
+adgain.cn
+adgainai.com
+tianmuads.com
